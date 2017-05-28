@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recognize", "My EMGU Program\Recognize.csproj", "{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Debug|x86.ActiveCfg = Debug|x86
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Debug|x86.Build.0 = Debug|x86
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Release|Any CPU.ActiveCfg = Release|x86
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Release|x86.ActiveCfg = Release|x86
+		{2C7F154C-52D4-4DCB-96D3-A76E26AFBF51}.Release|x86.Build.0 = Release|x86
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Debug|x86.Build.0 = Debug|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Release|x86.ActiveCfg = Release|Any CPU
+		{7CA97EA1-AE6E-4AA1-A9CF-F6B40786EDA6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

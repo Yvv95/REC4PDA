@@ -1,0 +1,7 @@
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\bin\Debug\NeuralNetworks.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\bin\Debug\System.Net.Http.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\bin\Debug\System.Net.Http.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\obj\Debug\NeuralNetworks.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
