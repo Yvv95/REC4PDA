@@ -1,0 +1,151 @@
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+c:\users\chris johnson\documents\visual studio 2010\Projects\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\My EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\My Simple EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Live Mesh\Publication\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.csprojResolveAssemblyReference.cache
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\obj\x86\Debug\My EMGU Program.csproj.GenerateResource.Cache
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_core220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Aspose.OCR.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.CV.UI.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\Emgu.Util.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\ZedGraph.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\My Advanced EMGU Program\My EMGU Program\bin\Debug\ImageProcessor.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\opencv_core220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Aspose.OCR.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\ImageProcessor.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Form1.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.csproj.GenerateResource.Cache
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Imaging.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Math.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Imaging.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Math.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.exe.config
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Tesseract.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x64\liblept172.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x64\libtesseract304.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x86\liblept172.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x86\libtesseract304.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Tesseract.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\FANNCSharp.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.csprojResolveAssemblyReference.cache

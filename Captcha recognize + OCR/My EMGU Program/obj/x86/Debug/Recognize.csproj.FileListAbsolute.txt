@@ -1,0 +1,28 @@
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\opencv_core220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\opencv_imgproc220.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x64\liblept172.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x64\libtesseract304.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x86\liblept172.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\x86\libtesseract304.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.exe.config
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Imaging.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Math.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Aspose.OCR.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\ImageProcessor.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Tesseract.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Imaging.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\AForge.Math.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\Tesseract.xml
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\Recognize.csprojResolveAssemblyReference.cache
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\Recognize.csproj.GenerateResource.Cache
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.exe
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\My EMGU Program.pdb
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\MainApp.MainForm.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\obj\x86\Debug\MainApp.NNForm.resources
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\NeuralNetworks.dll
+C:\Users\halop\Downloads\My Advanced EMGU Program\Captcha recognize + OCR\My EMGU Program\bin\Debug\NeuralNetworks.pdb
